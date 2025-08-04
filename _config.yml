@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: tu0403withyu0723
-subtitle: ''
-description: ''
+title: 草包鋒兄真漢子
+subtitle: '狀元郎相當於榜首'
+description: '草包鋒兄真漢子'
 keywords:
-author: tu0403withyu0723
+author: 草包鋒兄真漢子
 language:  zh-TW
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://tu0403withyu0723.github.io
+url: https://chbondg.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,5 +102,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/tu0403withyu0723/tu0403withyu0723.github.io
+  repo: https://github.com/chbondg/chbondg.github.io
   branch: main
